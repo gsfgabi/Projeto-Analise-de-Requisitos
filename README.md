@@ -1,6 +1,6 @@
 <h1>
-  <img style="height:50px" src="https://github.com/gsfgabi/ProjetoAnalisedeRequisitos/assets/89532466/bf4c7b55-f147-4970-b543-a89de6a726f1"/> Projeto de Analise de Requisitos
-  <img style="height:50px" src="https://github.com/gsfgabi/ProjetoAnalisedeRequisitos/assets/89532466/c47d6746-f970-471d-989b-10b62fdfd5ee"/>
+  <img style="height:50px" src="https://github.com/gsfgabi/ProjetoAnalisedeRequisitos/assets/89532466/bf4c7b55-f147-4970-b543-a89de6a726f1"/> 
+  <img style="height:50px" src="https://github.com/gsfgabi/ProjetoAnalisedeRequisitos/assets/89532466/c47d6746-f970-471d-989b-10b62fdfd5ee"/>Projeto de Analise de Requisitos
 </h1>
 
 - <p>O nosso projeto, foi desenvolvido como trabalho bimestral, na disciplina de Engenharia de Software: Análise de Requisitos. Nessa atividade, tivemos a tarefa de criar dois diagramas: o de classe e o de caso de uso.</p> 
