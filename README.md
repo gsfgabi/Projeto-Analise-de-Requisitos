@@ -26,6 +26,14 @@
 
 - <a href ="https://github.com/gsfgabi"> 👩‍💻 Gabriella Freitas</a>
 
+- <a href ="https://github.com/GiihCardoso"> 👩‍💻 Geovanna Cardoso</a>
+
+- <p> 👨‍💻 Jardy Giovan</p>
+
+- <a href ="https://github.com/Kethellin"> 👩‍💻 Kethellin Pereira</a>
+
+- <a href ="https://github.com/WandersonGabri"> 👨‍💻 Wanderson Gabriel</a>  
+
 <br>
 
 <div>
