@@ -38,7 +38,6 @@
 
 <div>
   <img style="height:60px" src="https://github.com/gsfgabi/ProjetoAnalisedeRequisitos/assets/89532466/ba456b87-1d53-4b52-a037-34c77a7c75cf" alt="LogoTipo Astah"/>
-  <img style="height:60px" src="https://app.brmodeloweb.com/5cceb53251d6e9827b44.svg" alt="LogoTipo BrModelo"/>
 </div>
 
  
